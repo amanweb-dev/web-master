@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;  
+}
+.reg-btn{
+   margin-left: 270px;
+}
+.navbar-brand{
+    color: #4A4A4A;
+}
+
+
+
