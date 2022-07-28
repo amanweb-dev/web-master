@@ -8,6 +8,9 @@ body{
 .navbar-brand, .title-colour{
     color: #4A4A4A;
 }
+.bg-size{
+    background-size: 20px;
+}
 
 
 
